@@ -1,0 +1,17 @@
+div{
+    height: 100px;
+    width: 100px;
+    background-color: greenyellow;
+    color: black;
+    border: 2px solid black;
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    /* transform property apply both the outer boc and the inner element. */
+    
+    transform: rotate(180deg);  
+    rotate: z 90deg;
+
+    /* the other exie (x and y) will only visible on 3d element */
+
+}
